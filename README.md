@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @michaelc143
+- 👀 I’m interested in computers and shoes
+- 🌱 I’m currently learning CS at UW Madison
+- 💞️ I’m looking to collaborate on upcoming projects
+- 📫 How to reach me: email mcorbishley@wisc.edu
