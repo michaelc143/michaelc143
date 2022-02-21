@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @michaelc143
-- 👀 I’m interested in computers and shoes
-- 🌱 I’m currently studying CS at UW Madison
-- 📫 Email:mcorbishley@wisc.edu
+# Michael Corbishley
+## *Sophmore CS Student at UW-Madison*
+-Java
+-Html/CSS
+-Javascript
+-C
