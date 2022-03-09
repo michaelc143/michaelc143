@@ -1,6 +1,6 @@
 # Michael Corbishley
 ## *Sophmore CS Student at UW-Madison*
-- Java
-- Html/CSS
-- Javascript
-- C
+### Interested in:
+> Web Development
+> UI/UX Design
+> Virtual Reality
