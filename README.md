@@ -4,5 +4,5 @@
 - Experienced in C, Python, and React native
 ## Projects
 - [OpenGl Web Animation Projects](https://github.com/michaelc143/CS-559-Fall-2022)
-- [AI ChatBot and Image Generator using OpenAi API](https://github.com/michaelc143/OpenAiChatBot)
+- [AI ChatBot and Image Generator in React using OpenAi API](https://github.com/michaelc143/OpenAiChatBot)
 - [Personal Resume as web app in React](https://michaelc143.github.io/personal-react-site/)
