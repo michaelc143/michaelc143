@@ -1,4 +1,9 @@
-3rd year computer science student at the University of Wisconsin - Madison interested in web development, systems programming, and software engineering.
+# Michael Corbishley
+
+**`3rd year computer science student at the University of Wisconsin - Madison`**
+
+Currently interested in web development, artificial intelligence, and software engineering.
+
 ## Programming Languages and other Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
