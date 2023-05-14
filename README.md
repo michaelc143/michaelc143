@@ -11,6 +11,7 @@
 
 
 <br />
+
 ## Completed Projects
 - [Personal Resume as web app in React](https://michaelc143.github.io/personal-react-site/)
 - [OpenGl Web Animation Projects](https://github.com/michaelc143/Computer-Graphics-Fall-2022)
