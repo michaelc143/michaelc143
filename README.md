@@ -1,6 +1,6 @@
 # Michael Corbishley
 
-**`3rd year computer science student at the University of Wisconsin - Madison`**
+**`4th year computer science student at the University of Wisconsin - Madison`**
 
 Currently interested in web development, artificial intelligence, and software engineering.
 
