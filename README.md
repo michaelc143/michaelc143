@@ -18,8 +18,7 @@ Currently interested in web development, artificial intelligence, and software e
 <br />
 
 ## Completed Projects
-- [Personal Resume as a web app in React](https://michaelc143.github.io/personal-react-site/)
+- [Personal Resume Web App in React](https://michaelc143.github.io/personal-react-site/)
 - [OpenGl Web Animation Projects](https://github.com/michaelc143/Computer-Graphics-Fall-2022)
 ## Currently In Progress
-- [AI ChatBot and Image Generator in React](https://michaelc143.github.io/Borb.Ai/)
-- [Personal Website as an app written in Angular](https://michaelc143.github.io/personal-angular-site/)
+- [Personal Website Written In Angular](https://michaelc143.github.io/personal-angular-site/)
