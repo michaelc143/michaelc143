@@ -1,10 +1,10 @@
 # Michael Corbishley
 
-**`4th year computer science student at the University of Wisconsin - Madison`**
+**`4th-year computer science student at the University of Wisconsin - Madison`**
 
 Currently interested in web development, artificial intelligence, and software engineering.
 
-## Programming Languages and other Tools
+## Programming Languages and Other Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -25,3 +25,4 @@ Currently interested in web development, artificial intelligence, and software e
 - [OpenGl Web Animation Projects](https://github.com/michaelc143/Computer-Graphics-Fall-2022)
 ## Currently In Progress
 - [Personal Website Written In Angular](https://michaelc143.github.io/personal-angular-site/)
+- [LeetCode Practice In Python](https://github.com/michaelc143/leet-code-practice)
