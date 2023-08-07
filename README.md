@@ -27,3 +27,4 @@ Currently interested in web development, artificial intelligence, and software e
 - [Personal Website Written In Angular](https://michaelc143.github.io/personal-angular-site/)
 - [LeetCode Practice In Python](https://github.com/michaelc143/leet-code-practice)
 - [Employee Payroll API in Spring Boot](https://github.com/michaelc143/EmployeePayrollApi)
+- [Frontend for Employee Payroll API in Angular](https://github.com/michaelc143/EmployeePayrollFrontend)
