@@ -23,7 +23,7 @@ Currently interested in web development, artificial intelligence, and software e
 ## Completed Projects
 - [Personal Resume Web App in React](https://michaelc143.github.io/personal-react-site/)
 - [OpenGl Web Animation Projects](https://github.com/michaelc143/Computer-Graphics-Fall-2022)
-- [Personal Website Written In Angular](michaelcorbishley.com)
+- [Personal Website Written In Angular](https://michaelc143.github.io/personal-angular-site/)
 ## Currently In Progress
 - [LeetCode Practice In Python](https://github.com/michaelc143/leet-code-practice)
 - [Employee Payroll API in Spring Boot](https://github.com/michaelc143/EmployeePayrollApi)
