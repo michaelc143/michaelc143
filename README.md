@@ -27,4 +27,5 @@ Currently interested in web development, artificial intelligence, and software e
 ## Currently In Progress
 - [LeetCode Practice In Python](https://github.com/michaelc143/leet-code-practice)
 - [Employee Payroll API in Spring Boot](https://github.com/michaelc143/EmployeePayrollApi)
-- [Frontend for Employee Payroll API in Angular](https://github.com/michaelc143/EmployeePayrollFrontend)
+- [UI for Employee Payroll API in Angular](https://github.com/michaelc143/EmployeePayrollFrontend)
+- [Machine learning model to predict clean/dirty road images](https://github.com/michaelc143/roads-machine-learning)
