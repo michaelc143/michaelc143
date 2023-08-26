@@ -4,6 +4,8 @@
 
 Currently interested in web development, artificial intelligence, and software engineering.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=michaelc143&show_icons=true)
+
 ## Programming Languages and Other Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
