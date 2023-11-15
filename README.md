@@ -1,6 +1,6 @@
 **`4th-year computer science student at the University of Wisconsin - Madison`**
-
-Currently interested in web development, artificial intelligence, and software engineering.
+**`Interested in web development, artificial intelligence, and software engineering`**
+![Checkout my website here](https://michaelcorbishley.com/)
 
 ## Programming Languages and Other Tools
 
