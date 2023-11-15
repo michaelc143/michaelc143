@@ -1,5 +1,3 @@
-# Michael Corbishley
-
 **`4th-year computer science student at the University of Wisconsin - Madison`**
 
 Currently interested in web development, artificial intelligence, and software engineering.
@@ -22,13 +20,3 @@ Currently interested in web development, artificial intelligence, and software e
 
 
 <br />
-
-## Completed Projects
-- [Personal Resume Web App in React](https://michaelc143.github.io/personal-react-site/)
-- [OpenGl Web Animation Projects](https://github.com/michaelc143/Computer-Graphics-Fall-2022)
-- [Personal Website Written In Angular](https://michaelc143.github.io/personal-angular-site/)
-## Currently In Progress
-- [LeetCode Practice In Python](https://github.com/michaelc143/leet-code-practice)
-- [Employee Payroll API in Spring Boot](https://github.com/michaelc143/EmployeePayrollApi)
-- [UI for Employee Payroll API in Angular](https://github.com/michaelc143/EmployeePayrollFrontend)
-- [Machine learning model to predict clean/dirty road images](https://github.com/michaelc143/roads-machine-learning)
