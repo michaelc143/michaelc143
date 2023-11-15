@@ -2,7 +2,7 @@
 **`Interested in web development, artificial intelligence, and software engineering`**
 <br />
 <br />
-[Checkout my website here!](https://michaelcorbishley.com/)
+Checkout my website here! [https://michaelcorbishley.com/](https://michaelcorbishley.com/)
 
 ## Programming Languages and Other Tools
 
