@@ -1,5 +1,6 @@
 **`4th-year computer science student at the University of Wisconsin - Madison`**
 **`Interested in web development, artificial intelligence, and software engineering`**
+<br />
 ![Checkout my website here](https://michaelcorbishley.com/)
 
 ## Programming Languages and Other Tools
