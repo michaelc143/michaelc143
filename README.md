@@ -1,12 +1,10 @@
-**`4th-year computer science student at the University of Wisconsin - Madison`**
-**`Interested in web development, artificial intelligence, and software engineering`**
+**`University of Wisconsin - Madison Computer Science Alum`**
+**`Interested in web development, artificial intelligence, data science, UX, and software engineering`**
 <br />
 <br />
 Checkout my website here! [https://michaelcorbishley.com/](https://michaelcorbishley.com/)
 
 ## Programming Languages and Other Tools
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelc143&theme=react&layout=donut)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
